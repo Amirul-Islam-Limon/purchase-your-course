@@ -1,0 +1,13 @@
+.first-part p{
+    color: dimgray;
+}
+.course{
+    display: flex;
+}
+.course-section{
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+.course-section button{
+    margin-bottom: 10px;
+}

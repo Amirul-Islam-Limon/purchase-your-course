@@ -1,0 +1,36 @@
+.heading-text{
+    background-color: #023857;
+    color: white;
+}
+.heading-text h2{
+    padding: 20px;
+    margin-bottom: 0;
+}
+.first-col{
+    background-color: white;
+}
+.second-col{
+    background-color:whitesmoke;
+    color:#053450 ;
+}
+.third-col{
+     background-color: rgb(252, 252, 213);
+}
+.courses-section{
+    display: flex;
+}
+.first-part h5{
+    margin-top: 25px;
+    width: 250px;
+}
+.first-part{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.second-part{
+    margin-top: 120px;
+}
+.third-col h2{
+    margin-top: 20px;
+}
